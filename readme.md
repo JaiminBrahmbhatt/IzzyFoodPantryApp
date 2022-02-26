@@ -17,10 +17,10 @@ Use the [apk file ](https://gitlab.tamucc.edu/cosc-6362_spring-2020/brahmbhatt-j
 
 
 ## Screenshots
-![Screenshot 1](Screenshots and Logo/1.png) 
-![Screenshot 2](Screenshots and Logo/2.png) 
-![Screenshot 3](Screenshots and Logo/3.png) 
-![Screenshot 4](Screenshots and Logo/4.png) 
+![Screenshot 1](Screenshots%20and%20Logo/1.png) 
+![Screenshot 2](Screenshots%20and%20Logo/2.png) 
+![Screenshot 3](Screenshots%20and%20Logo/3.png) 
+![Screenshot 4](Screenshots%20and%20Logo/4.png) 
 
 ## Install Android Studio
 Download [Android Studio](https://developer.android.com/studio#downloads)
