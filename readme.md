@@ -72,8 +72,8 @@ dependencies {
 
 ## Authors
 
-[Jaimin Brahmbhatt](https://gitlab.tamucc.edu/jbrahmbhatt)  
-[Vishva Payghode](https://gitlab.tamucc.edu/vpayghode) 
+[Jaimin Brahmbhatt](https://github.com/JaiminBrahmbhatt)  
+
 
 
 
