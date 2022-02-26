@@ -1,6 +1,6 @@
 # Izzy Food Pantry
 
-![Izzy LOGO](Screenshots and Logo/izzyfoodpantryforweb.jpg)
+![Izzy LOGO](Screenshots%20and%20Logo/izzyfoodpantryforweb.jpg)
 
 “Izzy’s Food Pantry” application is based on our on-campus food pantry where the users can get the list of products available (in-stock) in the pantry with real-time updates of the product list which saves the time and energy to visit the pantry every time to check what is available.
 
